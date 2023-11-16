@@ -1,0 +1,17 @@
+{
+  "short_name": "TMF",
+  "name": "TMF Web App",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "description": "TMF ERP is internal application",
+  "icons": [
+    {
+      "src": "assets/images/tmf_small_logo.png",
+      "sizes": "182x184",
+      "type": "image/png"
+    }
+  ]
+}
